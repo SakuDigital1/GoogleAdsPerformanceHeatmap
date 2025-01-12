@@ -57,9 +57,8 @@ Replace the following placeholders in the script:
 ---
 
 ## **Resources**
-- 📄 **[Google Sheet Template](https://docs.google.com/spreadsheets/d/your-template-link)**  
-- 📘 **[Setup Guide (PDF)](https://link-to-pdf-guide)**  
-- 🎥 **[Demo Video](https://link-to-demo-video)**  
+- 📄 **[Google Sheet Template]([https://docs.google.com/spreadsheets/d/your-template-link](https://docs.google.com/spreadsheets/d/1RJDoiLmNIN7OPwPjBDRLP7WJ21lUgyc_X_SWRTadauQ/edit))**  
+- 📘 **[Setup Guide (PDF)]**
 
 ---
 
