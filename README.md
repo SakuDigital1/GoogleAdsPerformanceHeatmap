@@ -41,17 +41,17 @@ Conversions: Number of completed actions
 The script uses conditional formatting to highlight performance:
 
 CTR (%):
-Green: >5%
-Yellow: 2%–5%
-Red: <2%
+🟢 Green: >5%
+🟡 Yellow: 2%–5%
+🔴 Red: <2%
 CPC ($):
-Green: <$1.50
-Yellow: $1.50–$3.00
-Red: >$3.00
+🟢 Green: <$1.50
+🟡 Yellow: $1.50–$3.00
+🔴 Red: >$3.00
 Cost/Conversion ($):
-Green: <$50
-Yellow: $50–$100
-Red: >$100
+🟢 Green: <$50
+🟡 Yellow: $50–$100
+🔴 Red: >$100
 5. Scheduling Automation
 Go to your Google Ads account.
 Open the script and click Schedule.
