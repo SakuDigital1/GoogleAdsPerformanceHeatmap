@@ -61,6 +61,3 @@ Replace the following placeholders in the script:
 - 📘 **[Setup Guide (PDF)]**
 
 ---
-
-## **License**
-This project is licensed under the **MIT License**.
